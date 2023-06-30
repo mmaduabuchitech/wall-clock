@@ -66,6 +66,47 @@
 }
 .time p:nth-child(7) {
   position: absolute;
-  top: 151px;
-  left: 92px;
+  top: 62px;
+  left: 2px;
+}
+.time p:nth-child(8) {
+  position: absolute;
+  top: 62px;
+  left: 2px;
+}
+.time p:nth-child(8) {
+  position: absolute;
+  top: 12px;
+  left: 14px;
+}
+.time p:nth-child(9) {
+  position: absolute;
+  top: 107px;
+  left: 176px;
+}
+.time p:nth-child(10) {
+  position: absolute;
+  top: 143px;
+  left: 141px;
+}
+.time p:nth-child(11) {
+  position: absolute;
+  top: 140px;
+  left: 48px;
+}
+.time p:nth-child(11) {
+  position: absolute;
+  top: 140px;
+  left: 48px;
+}
+.time p:nth-child(11) {
+  position: absolute;
+  top: 140px;
+  left: 48px;
+}
+.time p:nth-child(12) {
+  position: absolute;
+  position: absolute;
+  top: 107px;
+  left: 12px;
 }
