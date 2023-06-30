@@ -1,0 +1,71 @@
+.clock-container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin: 100px auto;
+}
+
+.clock {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ccc;
+}
+
+.hand {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  width: 2px;
+  height: 90px;
+  background-color: rgb(11, 3, 3);
+  transform-origin: bottom center;
+  /* animation: rotate 60s infinite linear; */
+}
+
+.time p:nth-child(1) {
+  position: absolute;
+  top: -27px;
+  left: 87px;
+}
+.time p:nth-child(2) {
+  position: absolute;
+  top: -18px;
+  left: 139px;
+}
+.time p:nth-child(3) {
+  position: absolute;
+  top: 10px;
+  left: 168px;
+}
+.time p:nth-child(4) {
+  position: absolute;
+  top: 60px;
+  left: 188px;
+}
+.time p:nth-child(5) {
+  position: absolute;
+  top: -19px;
+  left: 47px;
+}
+.time p:nth-child(6) {
+  position: absolute;
+  top: 151px;
+  left: 92px;
+}
+.time p:nth-child(7) {
+  position: absolute;
+  top: 151px;
+  left: 92px;
+}
